@@ -20,7 +20,8 @@ The primary objectives of this dashboard are to:
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+Dashboard overview.png
+
 
 
 ---
